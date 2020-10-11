@@ -109,7 +109,7 @@ vector<int> stringToIntegerVector(string input) {
 }
 
 ListNode* stringToListNode(string input) {
-    // Generate list from the input
+    // Generate list from the input given
     vector<int> list = stringToIntegerVector(input);
 
     // Now convert that list into linked list
