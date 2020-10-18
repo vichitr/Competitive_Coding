@@ -1,7 +1,7 @@
 [INFIX to Postfix Evaluate](infix_to_postfix_Evaluate.cpp)
 
 - Convert Infix Notation to Postfix Notation and Evaluate it.
-- It is one of the Populer Application of Stack Data Structure.
+- It is one of the Popular Application of Stack Data Structure.
 - Input Infix Expression must be in proper format. ==>  "3+2*(2^2-9)^(2-3/3)+3"
 - Operands and Operators, both must be single character.
 - Only '+' , '-' ,'*' ,'/' and '^' (Exponentiation) operators are expected.
