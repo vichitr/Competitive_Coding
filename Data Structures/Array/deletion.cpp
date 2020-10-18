@@ -19,7 +19,7 @@ int main(){
 	long long int arr[n];
 	for(long long int i=0; i<n ;i++)
 		cin >> arr[i];
-	cout << "Entered elements : ";
+	cout << "Entered elements are : ";
 	printArray(arr,n);
 	long long int x;
 	cin >> x;
